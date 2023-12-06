@@ -24,3 +24,5 @@
 ### [cat]> View File Contents
 ### [ls]> list Files
 ### [cd]> Change directory
+
+## the console 
